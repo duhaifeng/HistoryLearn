@@ -1,1 +1,19 @@
 /.idea/
+
+# macOS
+**/.DS_Store
+**/.AppleDouble
+**/.LSOverride
+
+# macOS - thumbnails & misc
+**/._*
+**/.Spotlight-V100
+**/.Trashes
+**/.fseventsd
+
+# Windows
+**/Thumbs.db
+**/ehthumbs.db
+
+# Linux
+**/.directory
